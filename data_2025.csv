@@ -1,4 +1,4 @@
-Organizador,Ano_Mes,Dia_da_Semana,Tipo_Dia,Objetivo,Date,AdSet_name,Amount_spent,Link_clicks,Impressions,Conversions,Tipo_de_Anúncio,Fase
+Organizador,Ano_Mes,Dia_da_Semana,Tipo_Dia,Objetivo,Date,AdSet_name,Amount_spent,Link_clicks,Impressions,Conversions,Segmentação,Tipo_de_Anúncio,Fase
 3533,2025 | Janeiro,Quarta-Feira,Dia útil,Leads,2025-01-01,midfunnel_full_dados_video_cara_meu_chefe_acabou_de_mandar_um_arquivo_com_1_bilhao_de_linhas,331.16,222,25359,81,Video,12º Lançamento | Leads
 3534,2025 | Janeiro,Quarta-Feira,Dia útil,Leads,2025-01-01,midfunnel_full_dados_video_cara_voce_ja_utilizou_python_pra_criar_uma_etl_pipeline,0.00,,0,2,Video,12º Lançamento | Leads
 3535,2025 | Janeiro,Quarta-Feira,Dia útil,Leads,2025-01-01,midfunnel_full_dados_video_se_voce_quer_aprender_python_etl_engenharia_de_dados_de_verdade_michele,255.66,197,13961,69,Video,12º Lançamento | Leads
